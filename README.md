@@ -1,4 +1,4 @@
-# acordeon-faq
+# exercicio02-acordeon
 Repositório com exercicio 02 do módulo de JS intermediário do cursdo DevQuest. <br>
 Textos que aparecem e desaparecem conforme clique do usuário.
 
