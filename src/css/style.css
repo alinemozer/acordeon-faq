@@ -8,11 +8,11 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 97vh;
 }
 
 .container .acordeon {
-    width: 655px;
+    max-width: 655px;
     height: 350px;
     background-color: white;
     box-shadow: 0 27px 49px -25px rgba(0, 0, 0, 0.3);
@@ -82,4 +82,17 @@ html {
 
 .acordeon .itens .item.ativo {
     background-image: url(../images/seta-ativa.svg);
+}
+
+.rodape {
+    text-align: center;
+}
+
+.rodape .link-portfolio {
+    padding: 5px;
+    font-size: 1.3rem;
+}
+
+.rodape .link-portfolio:hover{
+    font-weight: 700;
 }
